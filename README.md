@@ -2,6 +2,8 @@
 
 **An evidence-tiered index of the CIA's deepest programs — from Mockingbird and MKUltra to black sites, coups and claims that leave no paper trail.**
 
+**Live:** https://hahahaha123131.github.io/black-archive/ · **Repository:** https://github.com/HAHAHAHA123131/black-archive
+
 A single-file, zero-dependency static website (~196 KB). Pure black and white, no build step, no tracking, no frameworks — and **zero external requests**: even the fonts (Archivo and IBM Plex Mono, SIL Open Font License 1.1) are embedded directly in `index.html`, so the page contacts nothing but its own host when you load it.
 
 ---
